@@ -66,4 +66,4 @@ Speaker Output
 
 ## Author
 Pawan Singh
-Electronics and Communication Engineering
+Electronics and Communication Engineer
