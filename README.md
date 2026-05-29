@@ -1,4 +1,14 @@
 # Smart AI-Powered Magic Mirror
+## Project Images
+
+### Hardware Setup
+![Setup](images/setup.jpg)
+
+### Final Smart Mirror
+![Mirror](images/mirror.jpg)
+
+### Demo
+![Demo](images/demo.jpg)
 
 A smart interactive mirror developed using Raspberry Pi 4 and MagicMirror² with AI voice assistant integration. The system provides real-time information and responds to voice commands, creating an intelligent smart home interface.
 
